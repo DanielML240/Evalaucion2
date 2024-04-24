@@ -1,0 +1,57 @@
+
+.Logo{
+    width: 39px;
+    border-radius: 60%;
+    
+}
+
+.banner-container{
+    padding-top: 10px;
+}
+
+.acerca-container{
+    padding: 15px;
+}
+
+.img-not{
+    width: 100%;
+    border-radius: 80%;
+}
+
+.lgn-container{
+    background-image: url(/Resources/bg-index.jpg);
+    background-size: cover;
+}
+
+.log-subcontainer{
+    backdrop-filter: blur(8px);
+}
+
+.log-img{
+    border-radius: 60%;
+}
+.al-container{
+    padding-top: 10rem;
+}
+
+.al-img{
+    border-radius: 60%;
+    
+}
+.card-text{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gal-container{
+    background-image: url(/Resources/wallpaper-negro.jpg);
+    background-size: cover;
+    padding-bottom: 100px;
+    padding-top: 60px;
+}
+
+
+
+

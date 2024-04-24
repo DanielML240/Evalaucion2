@@ -1,0 +1,40 @@
+
+.Logo{
+    width: 39px;
+    border-radius: 60%;
+    
+}
+
+.banner-container{
+    padding-top: 10px;
+}
+
+.acerca-container{
+    padding: 15px;
+}
+
+.img-not{
+    width: 100%;
+    border-radius: 80%;
+}
+
+
+.al-container{
+    padding-top: 10rem;
+}
+
+.al-img{
+    border-radius: 60%;
+    
+}
+.card-text{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+
